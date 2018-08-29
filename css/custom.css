@@ -1,0 +1,10 @@
+.main-container {
+    width: 300px;
+    margin: 0 auto;
+}
+.header-container {
+    min-height: 50px;
+}
+.question-container {
+    min-height: 150px;
+}
